@@ -3,10 +3,8 @@
 
 ![rcmdnk github stats](https://github-readme-stats.vercel.app/api?username=Kamo0911&theme=dracula)　![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamo0911&layout=compact&theme=dracula)
 
-<p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kamo0911&theme=dracula&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
-</p>
 
 ---
 
